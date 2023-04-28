@@ -1,8 +1,8 @@
 ---
-title: TITLE
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
-tags: [TAG]     # TAG names should always be lowercase
+title: Just a Test
+date: 2023-04-28 15:30:00
+categories: [Test, test]
+tags: [test]     # TAG names should always be lowercase
 ---
 [toc]
 # Hello World
